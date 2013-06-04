@@ -189,7 +189,7 @@
     <file path="/ChatServer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369903151867" ignored="false" />
     <file path="G:/workspace_java/Barista/src/game/Game.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913688037" ignored="false" />
     <file path="/Game.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913624770" ignored="false" />
-    <file path="/Dummy.txt" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370330413843" ignored="false" />
+    <file path="/Dummy.txt" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370331163375" ignored="false" />
     <file path="G:/workspace_java/Barista/.idea/workspace.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913729904" ignored="false" />
     <file path="G:/workspace_java/Barista/.idea/vcs.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369912535144" ignored="false" />
     <file path="G:/workspace_java/Barista/src/game/TestClass.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913728332" ignored="false" />
@@ -287,7 +287,7 @@
       <file leaf-file-name="Waitress.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/iterate_composite/Waitress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="255" selection-end="255" vertical-scroll-proportion="0.41247833">
+            <state line="13" column="27" selection-start="252" selection-end="252" vertical-scroll-proportion="0.25315005">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -708,7 +708,11 @@
       <created>1370330414550</created>
       <updated>1370330414550</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1370331164398</created>
+      <updated>1370331164398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -742,7 +746,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20330843" sideWeight="0.36707452" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.67074525" order="1" side_tool="false" content_ui="tabs" />
@@ -924,7 +928,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/iterate_composite/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="255" selection-end="255" vertical-scroll-proportion="0.41247833">
+        <state line="13" column="27" selection-start="252" selection-end="252" vertical-scroll-proportion="0.25315005">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
