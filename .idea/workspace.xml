@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0489a6b6-f465-46f0-a6e5-24674e108a2e" name="Default" comment="test">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="designPatternStudy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Duck.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369273355664" ignored="false" />
+    <file path="/FlyBehavior.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369053229039" ignored="false" />
+    <file path="/QuackBehavior.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369053239262" ignored="false" />
+    <file path="/FlyWithWings.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369053455258" ignored="false" />
+    <file path="/FlyNoWay.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369053496917" ignored="false" />
+    <file path="/Quack.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369132650805" ignored="false" />
+    <file path="/MuteQuack.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369053589187" ignored="false" />
+    <file path="/Squeak.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369053628701" ignored="false" />
+    <file path="/MiniDuckSimulator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369273754742" ignored="false" />
+    <file path="/fragment.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370303311858" ignored="false" />
+    <file path="/QuackTest.groovy" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369132920349" ignored="false" />
+    <file path="/a.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369823382033" ignored="false" />
+    <file path="/sample.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369823384143" ignored="false" />
+    <file path="/ModelDuck.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369273620084" ignored="false" />
+    <file path="/FlyRocketPowered.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369273665292" ignored="false" />
+    <file path="/WeatherData.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369277231863" ignored="false" />
+    <file path="/Subject.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369275148739" ignored="false" />
+    <file path="/Observer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369275273881" ignored="false" />
+    <file path="/DisplayElement.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369277293221" ignored="false" />
+    <file path="/CurrentConditionDisplay.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369275773180" ignored="false" />
+    <file path="/CurrentConditionDisplayTest.groovy" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369275821629" ignored="false" />
+    <file path="/WeatherStation.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369277533307" ignored="false" />
+    <file path="$PROJECT_DIR$/../designPatternStudy2/src/observer/MainClass.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369276566152" ignored="false" />
+    <file path="/MainClass.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369276554634" ignored="false" />
+    <file path="/CurrentConditionsDisplay.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369288802347" ignored="false" />
+    <file path="/Beverage.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369289658189" ignored="false" />
+    <file path="/CondimentDecorator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369289729003" ignored="false" />
+    <file path="/Expresso.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369289787880" ignored="false" />
+    <file path="/HouseBlend.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369289825071" ignored="false" />
+    <file path="/Mocha.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369289937191" ignored="false" />
+    <file path="/Soy.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369290039959" ignored="false" />
+    <file path="/Whip.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369290389310" ignored="false" />
+    <file path="/SteamMilk.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369290204295" ignored="false" />
+    <file path="/StarbuzzCoffee.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369290348398" ignored="false" />
+    <file path="$PROJECT_DIR$/src/decorator/factory.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369291460689" ignored="false" />
+    <file path="/Pizza.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369291973016" ignored="false" />
+    <file path="/SimplePizzaFactory.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369291999053" ignored="false" />
+    <file path="G:/workspace_java/game/src/com/game/items/Item.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369305984314" ignored="false" />
+    <file path="/Singleton.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369370722178" ignored="false" />
+    <file path="/ChoolateBoiler.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369371444890" ignored="false" />
+    <file path="/Command.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374461237" ignored="false" />
+    <file path="/LightOnCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374512724" ignored="false" />
+    <file path="/SimpleRemoteControl.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369372331642" ignored="false" />
+    <file path="/RemoteControlTest.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369375403840" ignored="false" />
+    <file path="/Light.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369372425916" ignored="false" />
+    <file path="/GarageDoorOpenCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369372584683" ignored="false" />
+    <file path="/GarageDoor.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369372979177" ignored="false" />
+    <file path="/RemoteControl.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374608941" ignored="false" />
+    <file path="/LightOffCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369634676681" ignored="false" />
+    <file path="/StreoOnWithCDCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374527372" ignored="false" />
+    <file path="/Stereo.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374178928" ignored="false" />
+    <file path="/CelingFan.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374813228" ignored="false" />
+    <file path="/CelingFanCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374951313" ignored="false" />
+    <file path="/CelingFanHighCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369374918362" ignored="false" />
+    <file path="/MacroCommand.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369375475914" ignored="false" />
+    <file path="G:/workspace_java/testproj/AndroidManifest.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369387788896" ignored="false" />
+    <file path="G:/workspace_java/testproj/res/values/strings.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369387788896" ignored="false" />
+    <file path="G:/workspace_java/testproj/src/com/example/testproj/MyActivity.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369387796761" ignored="false" />
+    <file path="G:/workspace_java/testproj/res/layout/main.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369387866076" ignored="false" />
+    <file path="G:/workspace_java/testproj/build.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369387789323" ignored="false" />
+    <file path="/Buck.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369635235481" ignored="false" />
+    <file path="/MallardDuck.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369635255837" ignored="false" />
+    <file path="/Turkey.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369635299400" ignored="false" />
+    <file path="/WildTurkey.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369635328823" ignored="false" />
+    <file path="/TurkeyAdapter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369635409852" ignored="false" />
+    <file path="/DuckTestDrive.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369635608802" ignored="false" />
+    <file path="/EnumerationIterator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369636124265" ignored="false" />
+    <file path="/Coffee.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369637888193" ignored="false" />
+    <file path="/Tea.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369637880582" ignored="false" />
+    <file path="/CaffeineBerverage.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369637945590" ignored="false" />
+    <file path="/CaffeineBerverageWithHook.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369638494217" ignored="false" />
+    <file path="/CoffeeWithHook.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369638768955" ignored="false" />
+    <file path="/BerverageTestDrive.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369638831209" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/com/incubator/quasimondo/StackBlur.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369826322447" ignored="false" />
+    <file path="/a.dummy" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370311891306" ignored="false" />
+    <file path="/StackBlur.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369826321979" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/com/incubator/quasimondo/SuperfastBlur.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369826341024" ignored="false" />
+    <file path="/SuperfastBlur.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369826275564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/com/incubator/quasimondo/ImageBlur.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369825952009" ignored="false" />
+    <file path="/ImageBlur.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369825952009" ignored="false" />
+    <file path="/threadpool.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369871227020" ignored="false" />
+    <file path="/ThreadPoolTester.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369878993453" ignored="false" />
+    <file path="/WorkQueue.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369878367505" ignored="false" />
+    <file path="/ThreadPoolService.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369879022699" ignored="false" />
+    <file path="/ThreadPoolTest.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369879845005" ignored="false" />
+    <file path="/SoundPool.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895810095" ignored="false" />
+    <file path="/SoundPlayer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895588498" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/Blend.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895915684" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Queue.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/Pixelate.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Vec2D.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/PixelUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Vec3D.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/BlurFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Logger.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/MosaicFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Matrix.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/ScreenCapture.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/MatrixF.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Unicode.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/ChannelSeparator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/ByteUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/MotionBlurFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/NetUtils.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/BufferedImageFader.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/TimeUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/PerspectiveProjection.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/imageprocessing/BufferedImageFaderAccessor.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/FlaskUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/EasyCrypto.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/Quaternion.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/StringUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/CastingUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/PerlinNoise.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/SoundPlayer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/utils/TXT_Manager.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895892798" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/Blend.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Queue.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/Pixelate.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895985737" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Vec2D.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/PixelUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Vec3D.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/BlurFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Logger.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/MosaicFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Matrix.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/ScreenCapture.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/MatrixF.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Unicode.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/ChannelSeparator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/ByteUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/MotionBlurFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/NetUtils.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/BufferedImageFader.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/TimeUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/PerspectiveProjection.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/imageprocessing/BufferedImageFaderAccessor.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/FlaskUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/EasyCrypto.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/Quaternion.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/StringUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/CastingUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/PerlinNoise.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/SoundPlayer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flaks/utils/TXT_Manager.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369895962032" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/Blend.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026563" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Queue.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026563" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/Pixelate.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896697820" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Vec2D.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026563" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/PixelUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026563" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Vec3D.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026563" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/BlurFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369900950065" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Logger.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026563" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/MosaicFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Matrix.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/ScreenCapture.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/MatrixF.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Unicode.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/ChannelSeparator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/ByteUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/MotionBlurFilter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/NetUtils.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/BufferedImageFader.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896027043" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/TimeUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/PerspectiveProjection.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/FlaskUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/imageprocessing/BufferedImageFaderAccessor.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/EasyCrypto.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/Quaternion.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/StringUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896303081" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/CastingUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/PerlinNoise.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/SoundPlayer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896289593" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/TXT_Manager.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896026564" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/utils/SP.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896272042" ignored="false" />
+    <file path="/Pixelate.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369896696957" ignored="false" />
+    <file path="/VertSimpleChatServer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369898369832" ignored="false" />
+    <file path="$USER_HOME$/Documents/마이피플 받은 파일/VertSimpleChatServer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369898369832" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/chat/ChatServer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369903171470" ignored="false" />
+    <file path="G:/workspace_java/BlurLib/src/flask/chat/ChatClient.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369901018618" ignored="false" />
+    <file path="/ChatServer.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369903151867" ignored="false" />
+    <file path="G:/workspace_java/Barista/src/game/Game.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913688037" ignored="false" />
+    <file path="/Game.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913624770" ignored="false" />
+    <file path="/Dummy.txt" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370330375536" ignored="false" />
+    <file path="G:/workspace_java/Barista/.idea/workspace.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913729904" ignored="false" />
+    <file path="G:/workspace_java/Barista/.idea/vcs.xml" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369912535144" ignored="false" />
+    <file path="G:/workspace_java/Barista/src/game/TestClass.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1369913728332" ignored="false" />
+    <file path="/MenuItem.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370234259616" ignored="false" />
+    <file path="/PancakeHouseMenu.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370317973159" ignored="false" />
+    <file path="/DinnerMenu.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370302831556" ignored="false" />
+    <file path="/Iter.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370302525495" ignored="false" />
+    <file path="/Iterator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370302594453" ignored="false" />
+    <file path="/DinnerMenuIterator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370302778786" ignored="false" />
+    <file path="/PancakeHouseMenuIterator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370302994623" ignored="false" />
+    <file path="/Waitress.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370328866631" ignored="false" />
+    <file path="/MenuTestDirve.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370328492126" ignored="false" />
+    <file path="G:/workspace_java/Barishooter/src/flask/utils/RandomUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370312025804" ignored="false" />
+    <file path="/RandomUtil.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370311955313" ignored="false" />
+    <file path="/DinerMenu.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370317981530" ignored="false" />
+    <file path="/DinerMenuIterator.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370317882766" ignored="false" />
+    <file path="/Menu.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370317954944" ignored="false" />
+    <file path="/CafeMenu.java" changelist="0489a6b6-f465-46f0-a6e5-24674e108a2e" time="1370328354547" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="designPatternStudy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CafeMenu.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iterate_composite/CafeMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Waitress.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/iterate_composite/Waitress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="5" selection-start="255" selection-end="255" vertical-scroll-proportion="0.27262315">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuTestDirve.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iterate_composite/MenuTestDirve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="80" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/thread/threadpool/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/thread/threadpool/SoundPool.java" />
+        <option value="$PROJECT_DIR$/src/thread/threadpool/SoundPlayer.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/Iter.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/DinnerMenu.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/DinnerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/DinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/Menu.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/PancakeHouseMenu.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/CafeMenu.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/PancakeHouseMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/MenuTestDirve.java" />
+        <option value="$PROJECT_DIR$/src/iterate_composite/Waitress.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iterate_composite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPatternStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iterate_composite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests" />
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="observer" />
+      <recent name="com.duck" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="command" />
+      <recent name="singleton.command" />
+      <recent name="factory" />
+      <recent name="observer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MenuTestDirve">
+    <configuration default="false" name="MenuTestDirve" type="Application" factoryName="Application" singleton="true" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="iterate_composite.MenuTestDirve" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="designPatternStudy" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.MenuTestDirve" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.MenuTestDirve" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0489a6b6-f465-46f0-a6e5-24674e108a2e" name="Default" comment="" />
+      <created>1369052929295</created>
+      <updated>1369052929295</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1370330190007</created>
+      <updated>1370330190007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67074525" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.67074525" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20330843" sideWeight="0.36707452" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.67074525" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67074525" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14087513" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_10/src.zip!/javax/sound/sampled/DataLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="36" selection-start="2419" selection-end="2419" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_10/src.zip!/javax/sound/sampled/Clip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="34" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.2749141" />
+      </provider>
+    </entry>
+    <entry file="file://G:/workspace_java/Barista/src/threadpool/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="513" selection-end="513" vertical-scroll-proportion="0.44788086" />
+      </provider>
+    </entry>
+    <entry file="file://G:/workspace_java/Barista/src/threadpool/WorkQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="38" selection-start="261" selection-end="261" vertical-scroll-proportion="0.2142039" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_10/src.zip!/javax/sound/sampled/LineListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="16" selection-start="1373" selection-end="1379" vertical-scroll-proportion="0.8178694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/ChoolateBoiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="199" selection-end="199" vertical-scroll-proportion="0.116838485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="287" selection-end="287" vertical-scroll-proportion="0.2142039">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/DinerMenuIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="41" selection-start="503" selection-end="503" vertical-scroll-proportion="0.64705884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="114" selection-end="114" vertical-scroll-proportion="0.14705883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/DinerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/PancakeHouseMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="45" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatternStudy.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="238" selection-end="238" vertical-scroll-proportion="0.14705883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/CafeMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/PancakeHouseMenuIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.26516464">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/MenuTestDirve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="80" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterate_composite/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="255" selection-end="255" vertical-scroll-proportion="0.27262315">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>designPatternStudy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
