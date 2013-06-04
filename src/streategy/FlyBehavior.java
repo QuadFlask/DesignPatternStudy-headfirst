@@ -1,0 +1,5 @@
+package streategy;
+
+public interface FlyBehavior {
+	public void fly();
+}
