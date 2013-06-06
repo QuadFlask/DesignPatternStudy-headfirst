@@ -1,5 +1,13 @@
 # Design Pattern Study
 
+## Principles
+
+ - OCP
+ - DIP
+ - Principle of least knowledge
+ - Hollywood principle
+ 
+
 ## Design Pattern List
  - Adapter
  - Command
@@ -12,23 +20,23 @@
  - Template Method
  
  
-## Adapter
+### Adapter
 
-## Command
+### Command
 
-## Decorator
+### Decorator
 
-## Factory
+### Factory
 
-## Iterate & Composite
+### Iterate & Composite
 
-## Observer
+### Observer
 
-## Singleton
+### Singleton
 
-## Streategy
+### Streategy
 
-## Template Method
+### Template Method
 
 
 > Headfirst - Design pattern
