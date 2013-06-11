@@ -7,7 +7,7 @@
  - Principle of least knowledge
  - Hollywood principle
 
- ****
+****
 
 ## Design Pattern List
  - Adapter
